@@ -1,4 +1,4 @@
-﻿# Sawandeekub
+﻿# Sawaddeekub
 ## this is labtest
 ```
 
